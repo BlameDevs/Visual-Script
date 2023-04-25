@@ -1,0 +1,19 @@
+--[[
+
+ .____                  ________ ___.    _____                           __                
+
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+
+         \/          \/         \/    \/                \/     \/     \/                   
+
+          \_Welcome to LuaObfuscator.com   (Alpha 0.2.5) ~  Much Love, Ferib 
+
+]]--
+
+do local v0=0;local v1;local v2;local v3;local v4;local v5;local v6;local v7;local v8;local v9;local v10;local v11;local v12;local v13;local v14;local v15;local v16;while true do if (v0==2) then v7=table.concat;v8=table.insert;v9=math.ldexp;v0=3;end if (v0==3) then v10=getfenv or function()return _ENV;end ;v11=setmetatable;v12=pcall;v0=4;end if (v0==1) then v4=string.sub;v5=string.gsub;v6=string.rep;v0=2;end if (v0==5) then v16=nil;function v16(v25,v26,...)local v27=0;local v28;local v29;local v30;local v31;local v32;local v33;local v34;local v35;local v36;local v37;local v38;local v39;while true do if (1==v27) then v30=nil;function v30(v40,v41,v42)if v42 then local v77=(v40/((2 + 0)^(v41-1)))%((1602 -(335 + 73 + 1192))^(((v42-(1296 -(595 + (2156 -1456)))) -(v41-(1336 -(1092 + 243)))) + (1 -0))) ;return v77-(v77%(2 -1)) ;else local v78=0;local v
